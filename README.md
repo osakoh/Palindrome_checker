@@ -9,7 +9,6 @@
 - [x] using a while loop, compare the end and the front character by removing items through the end and the front of the deque.
 - [x] end iteration when the end character does not equal the front character.
 
-
 ![Screenshot](screenshot.png)
 ---
 
